@@ -1,0 +1,341 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "name": "Throwback Thursdays with DJ Manny Duke",
+                "slug": "throwback-thursdays-with-dj-manny-duke",
+                "venue": "Horizon Club",
+                "date": "2023-02-23T06:00:00.000Z",
+                "time": "10:00 PM EST",
+                "performers": "DJ Manny Duke",
+                "description": "Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's",
+                "createdAt": "2023-02-12T16:05:19.770Z",
+                "updatedAt": "2023-02-12T16:15:50.224Z",
+                "publishedAt": "2023-02-12T16:15:50.219Z",
+                "address": "919 3rd Ave New York, New York(NY), 10022",
+                "image": {
+                    "data": {
+                        "id": 8,
+                        "attributes": {
+                            "name": "event1.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 1920,
+                            "height": 1280,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_event1.jpg",
+                                    "hash": "thumbnail_event1_fd44998bdb",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 234,
+                                    "height": 156,
+                                    "size": 8.77,
+                                    "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676217857/thumbnail_event1_fd44998bdb.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_event1_fd44998bdb",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "small": {
+                                    "name": "small_event1.jpg",
+                                    "hash": "small_event1_fd44998bdb",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 500,
+                                    "height": 333,
+                                    "size": 28.62,
+                                    "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676217857/small_event1_fd44998bdb.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "small_event1_fd44998bdb",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "large": {
+                                    "name": "large_event1.jpg",
+                                    "hash": "large_event1_fd44998bdb",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 1000,
+                                    "height": 667,
+                                    "size": 83.06,
+                                    "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676217857/large_event1_fd44998bdb.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "large_event1_fd44998bdb",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "medium": {
+                                    "name": "medium_event1.jpg",
+                                    "hash": "medium_event1_fd44998bdb",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 750,
+                                    "height": 500,
+                                    "size": 53.47,
+                                    "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676217857/medium_event1_fd44998bdb.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "medium_event1_fd44998bdb",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "event1_fd44998bdb",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 240.29,
+                            "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676217857/event1_fd44998bdb.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "event1_fd44998bdb",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-02-12T16:04:17.983Z",
+                            "updatedAt": "2023-02-12T16:04:17.983Z"
+                        }
+                    }
+                },
+                "user": {
+                    "data": {
+                        "id": 1,
+                        "attributes": {
+                            "username": "Chanawee",
+                            "email": "chanawee@hotmail.com",
+                            "provider": "local",
+                            "confirmed": true,
+                            "blocked": false,
+                            "createdAt": "2023-02-12T15:34:31.722Z",
+                            "updatedAt": "2023-02-12T15:34:31.722Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "name": "Boom Dance Festival Experience",
+                "slug": "boom-dance-festival-experience",
+                "venue": "Blackjacks",
+                "date": "2023-02-22T06:00:00.000Z",
+                "time": "8:00 PM EST",
+                "performers": "DJ LUCK & MC NEAT, NICKY BLACKMARKET, DJ NICKY BLACKMARKET, RATPACK",
+                "description": "It's looking more and more like we will be seeing events return in the summer! To celebrate this we are arranging a festival experience to say good bye to lock down! We will also be celebrating the fact Zoom Dance is one year old!",
+                "createdAt": "2023-02-12T16:18:32.395Z",
+                "updatedAt": "2023-02-12T16:18:34.492Z",
+                "publishedAt": "2023-02-12T16:18:34.489Z",
+                "address": "966 Lexington Ave New York, New York(NY), 10021",
+                "image": {
+                    "data": {
+                        "id": 9,
+                        "attributes": {
+                            "name": "event2.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 1920,
+                            "height": 1280,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_event2.jpg",
+                                    "hash": "thumbnail_event2_2a698e0312",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 234,
+                                    "height": 156,
+                                    "size": 9.34,
+                                    "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676218704/thumbnail_event2_2a698e0312.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_event2_2a698e0312",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "small": {
+                                    "name": "small_event2.jpg",
+                                    "hash": "small_event2_2a698e0312",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 500,
+                                    "height": 333,
+                                    "size": 31.82,
+                                    "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676218704/small_event2_2a698e0312.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "small_event2_2a698e0312",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "medium": {
+                                    "name": "medium_event2.jpg",
+                                    "hash": "medium_event2_2a698e0312",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 750,
+                                    "height": 500,
+                                    "size": 61.64,
+                                    "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676218704/medium_event2_2a698e0312.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "medium_event2_2a698e0312",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "large": {
+                                    "name": "large_event2.jpg",
+                                    "hash": "large_event2_2a698e0312",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 1000,
+                                    "height": 667,
+                                    "size": 99.63,
+                                    "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676218704/large_event2_2a698e0312.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "large_event2_2a698e0312",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "event2_2a698e0312",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 319.63,
+                            "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676218704/event2_2a698e0312.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "event2_2a698e0312",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-02-12T16:18:24.796Z",
+                            "updatedAt": "2023-02-12T16:18:24.796Z"
+                        }
+                    }
+                },
+                "user": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "name": "Encore Night Boat Party",
+                "slug": "encore-night-boat-party",
+                "venue": "Encore",
+                "date": "2023-03-09T06:00:00.000Z",
+                "time": "7:00 PM EST",
+                "performers": "Bad Boy Bill",
+                "description": "Who is ready to party? I mean in the middle of the water, a boat with good music and drinks. If thats you then you have made it to the right place",
+                "createdAt": "2023-02-12T16:20:33.674Z",
+                "updatedAt": "2023-02-12T16:20:35.587Z",
+                "publishedAt": "2023-02-12T16:20:35.585Z",
+                "address": "675 Water St New York, New York(NY), 10002",
+                "image": {
+                    "data": {
+                        "id": 10,
+                        "attributes": {
+                            "name": "event3.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 1920,
+                            "height": 1280,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_event3.jpg",
+                                    "hash": "thumbnail_event3_c8665ca368",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 234,
+                                    "height": 156,
+                                    "size": 6.39,
+                                    "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676218809/thumbnail_event3_c8665ca368.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_event3_c8665ca368",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "small": {
+                                    "name": "small_event3.jpg",
+                                    "hash": "small_event3_c8665ca368",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 500,
+                                    "height": 333,
+                                    "size": 21.35,
+                                    "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676218809/small_event3_c8665ca368.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "small_event3_c8665ca368",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "medium": {
+                                    "name": "medium_event3.jpg",
+                                    "hash": "medium_event3_c8665ca368",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 750,
+                                    "height": 500,
+                                    "size": 42.7,
+                                    "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676218809/medium_event3_c8665ca368.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "medium_event3_c8665ca368",
+                                        "resource_type": "image"
+                                    }
+                                },
+                                "large": {
+                                    "name": "large_event3.jpg",
+                                    "hash": "large_event3_c8665ca368",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 1000,
+                                    "height": 667,
+                                    "size": 71.21,
+                                    "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676218809/large_event3_c8665ca368.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "large_event3_c8665ca368",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "event3_c8665ca368",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 277.61,
+                            "url": "https://res.cloudinary.com/dtoumsasn/image/upload/v1676218809/event3_c8665ca368.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "event3_c8665ca368",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-02-12T16:20:09.645Z",
+                            "updatedAt": "2023-02-12T16:20:09.645Z"
+                        }
+                    }
+                },
+                "user": {
+                    "data": null
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 3
+        }
+    }
+}
