@@ -3,6 +3,7 @@ import { useRouter } from "next/router";
 import Layout from "@/components/Layout";
 import { API_URL } from "@/config";
 import EventItem from "@/components/EventItem";
+
 import qs from "qs";
 export default function SearchPage({ events }) {
   const router = useRouter();
@@ -13,6 +14,11 @@ export default function SearchPage({ events }) {
       </h1>
       {events.length === 0 && <h3> No events to show</h3>}
       {events.map(evt => <EventItem key={evt.id} evt={evt} />)}
+      <Link href="/events">
+        <button className="btn">
+          {" "}{"<"} Go Back
+        </button>
+      </Link>
     </Layout>
   );
 }
